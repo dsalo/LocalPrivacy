@@ -41,7 +41,9 @@ A Virtual Private Network (VPN) keeps your online activity from being snooped on
 ### Mobile: Security settings and tools
 
 *   [DoIT's recommendations](https://it.wisc.edu/guides/secure-your-mobile-device/) (unfortunately, these are "what to do" not "how to do it")
+*   [Using mobile phones as securely as possible](https://securityinabox.org/en/guide/mobile-phones)
 *   iOS: [iPhone, iPod Touch, iPad](http://www.zdnet.com/pictures/ios-10-iphone-ipad-privacy-security-settings/)
+*   [Basic security setup for Android](https://securityinabox.org/en/guide/basic-setup/android)
 *   [Android](https://www.trendmicro.com/vinfo/us/security/news/mobile-safety/7-android-security-hacks-you-need-to-do-right-now)
 *   [Top 20 Android security apps](http://www.esecurityplanet.com/mobile-security/slideshows/top-20-android-security-apps.html) (seriously consider a few of these; Android is NOT VERY SECURE)
 
