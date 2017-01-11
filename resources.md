@@ -7,6 +7,8 @@ This is a list of things you can do to improve your computer's security and your
 *   [DoIT on Device Security](https://kb.wisc.edu/page.php?id=41746)
 *   [DoIT Security Scanning Tools](https://it.wisc.edu/about/office-of-the-cio/cybersecurity/security-scanning-tools/)
 *   EFF: [Security Self-Defense](https://ssd.eff.org/en)
+*   [Take Back the Tech Safety Toolkit](https://www.takebackthetech.net/be-safe/safety-toolkit)
+*   [Lock Down Your Digital Identity](http://femtechnet.org/csov/lock-down-your-digital-identity/)
 
 ### Computer: hard-disk encryption
 
@@ -63,8 +65,9 @@ A password manager is what it sounds like: it creates and remembers hard-to-crac
 
 ### Browser (computer): Security/privacy plugins
 
-Web trackers and advertising networks are a major source of privacy leakage; ad networks increasingly contain malware. Every browser should install Privacy Badger at minimum.
+Web trackers and advertising networks are a major source of privacy leakage; ad networks increasingly contain malware. Every browser should install Privacy Badger and HTTPS Everywhere at minimum.
 
+*   [HTTPS Everywhere](https://www.eff.org/https-everywhere)
 *   [Privacy Badger!](https://www.eff.org/privacybadger)
 *   [uBlock Origin](https://github.com/gorhill/uBlock/#installation)
 *   [More suggestions (cross-browser)](http://skytechgeek.com/2016/12/5-must-have-privacy-add-ons-for-your-browser/)
@@ -75,7 +78,7 @@ Web trackers and advertising networks are a major source of privacy leakage; ad 
 Google tracks you and your search history. DuckDuckGo does not. Use DuckDuckGo as your default search engine.
 
 *   [Instructions for most browsers](https://home.bt.com/tech-gadgets/computing/chrome-firefox-edge-internet-explorer-change-default-search-engine-11364117803672)
-*   Alternately, go to [DuckDuckGo's home page](https://duckduckgo.com/) and see if they prompt you to change your default browser.
+*   Alternately, go to [DuckDuckGo's home page](https://duckduckgo.com/) and see if DDG prompts you to change your default browser.
 
 ### Browser (mobile): Security/privacy plugins
 
