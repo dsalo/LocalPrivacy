@@ -34,6 +34,8 @@ A Virtual Private Network (VPN) keeps your online activity from being snooped on
 
 ### Computer: The Onion Router (TOR)
 
+Tor disguises your Internet traffic and disassociates you from it by concealing your IP address. The Tor Browser is Firefox + Tor, and is desktop/laptop cross-platform. Orbot is for Android phones and tablets. The Tails operating system is an OS-on-a-stick that you can take with you and use on computers you might not otherwise trust.
+
 *   [Tor Browser](https://www.torproject.org/projects/torbrowser.html.en)
 *   [Tor for Android](https://guardianproject.info/apps/orbot/) (Orbot)
 *   [Tails operating system](https://tails.boum.org/)
