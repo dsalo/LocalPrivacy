@@ -48,6 +48,7 @@ Tor disguises your Internet traffic and disassociates you from it by concealing 
 *   [Basic security setup for Android](https://securityinabox.org/en/guide/basic-setup/android)
 *   [Android](https://www.trendmicro.com/vinfo/us/security/news/mobile-safety/7-android-security-hacks-you-need-to-do-right-now)
 *   [Top 20 Android security apps](http://www.esecurityplanet.com/mobile-security/slideshows/top-20-android-security-apps.html) (seriously consider a few of these; Android is NOT VERY SECURE)
+*   [5 security tools for Windows Phone](https://blog.kaspersky.com/windows-8-security-apps/4881/)
 
 ### Mobile: Setting up WiscVPN
 
