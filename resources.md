@@ -7,7 +7,7 @@ This is a list of things you can do to improve your computer's security and your
 *   [DoIT on Device Security](https://kb.wisc.edu/page.php?id=41746)
 *   [DoIT Security Scanning Tools](https://it.wisc.edu/about/office-of-the-cio/cybersecurity/security-scanning-tools/)
 *   EFF: [Security Self-Defense](https://ssd.eff.org/en)
-*   [The Ultimate Online Privacy Guide[(https://www.bestvpn.com/the-ultimate-privacy-guide/)
+*   [The Ultimate Online Privacy Guide](https://www.bestvpn.com/the-ultimate-privacy-guide/)
 *   [Take Back the Tech Safety Toolkit](https://www.takebackthetech.net/be-safe/safety-toolkit)
 *   [Lock Down Your Digital Identity](http://femtechnet.org/csov/lock-down-your-digital-identity/)
 
