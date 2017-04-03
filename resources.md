@@ -7,6 +7,7 @@ This is a list of things you can do to improve your computer's security and your
 *   [DoIT on Device Security](https://kb.wisc.edu/page.php?id=41746)
 *   [DoIT Security Scanning Tools](https://it.wisc.edu/about/office-of-the-cio/cybersecurity/security-scanning-tools/)
 *   EFF: [Security Self-Defense](https://ssd.eff.org/en)
+*   [The Ultimate Online Privacy Guide[(https://www.bestvpn.com/the-ultimate-privacy-guide/)
 *   [Take Back the Tech Safety Toolkit](https://www.takebackthetech.net/be-safe/safety-toolkit)
 *   [Lock Down Your Digital Identity](http://femtechnet.org/csov/lock-down-your-digital-identity/)
 
@@ -31,6 +32,7 @@ A Virtual Private Network (VPN) keeps your online activity from being snooped on
 
 *   Mac: [Connecting through Native VPN](https://kb.wisc.edu/page.php?id=12380)
 *   Windows: [WiscVPN AnyConnect client](https://kb.wisc.edu/page.php?id=11997) (for connection type, choose IP-pool-OffCampus)
+*   [VPNs for Beginners](https://www.bestvpn.com/blog/38176/vpns-beginners-need-know/) (technical, but clearly explained)
 
 ### Computer: The Onion Router (TOR)
 
