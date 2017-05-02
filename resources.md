@@ -2,6 +2,14 @@
 
 This is a list of things you can do to improve your computer's security and your own privacy. Please feel free to ask questions about any of them!
 
+### Wow, this is long! What should I do first?
+
+These are my top recommendations:
+
+* Install [HTTPS Everywhere](https://www.eff.org/https-everywhere) and [Privacy Badger!](https://www.eff.org/privacybadger) in your favorite web browser
+*  [Change your default search engine away from Google](https://home.bt.com/tech-gadgets/computing/chrome-firefox-edge-internet-explorer-change-default-search-engine-11364117803672) and [minimize Google's tracking](https://myaccount.google.com/security)
+*   [Maximize your privacy on social media](https://www.uc.edu/infosec/info/SocialMediaPrivacySettings.html)
+
 ### Overall guides and tools
 
 *   [DoIT on Device Security](https://kb.wisc.edu/page.php?id=41746)
