@@ -34,12 +34,10 @@ In general, if you're not using a particular communications protocol, turning it
 *   Mac: [Security preference pane](https://www.lifewire.com/use-mac-security-preference-pane-2260745)
 *   Windows: [Windows 10](http://download.cnet.com/blog/download-blog/a-guide-to-windows-10-security-settings/), [Windows 8](http://www.makeuseof.com/tag/five-tips-managing-security-windows-8-1/)
 
-### Computer: Setting up WiscVPN
+### Computer: Choosing and setting up a VPN
 
 A Virtual Private Network (VPN) keeps your online activity from being snooped on by random outsiders. This is **especially** important when you are using public wifi, as at a coffeeshop or airport. UW-Madison's WiscVPN is free for students, faculty, and staff to use.
 
-*   Mac: [Connecting through Native VPN](https://kb.wisc.edu/page.php?id=12380)
-*   Windows: [WiscVPN AnyConnect client](https://kb.wisc.edu/page.php?id=11997) (for connection type, choose IP-pool-OffCampus)
 *   [VPNs for Beginners](https://www.bestvpn.com/blog/38176/vpns-beginners-need-know/) (technical, but clearly explained)
 
 ### Computer: The Onion Router (TOR)
@@ -59,11 +57,6 @@ Tor disguises your Internet traffic and disassociates you from it by concealing 
 *   [Android](https://www.trendmicro.com/vinfo/us/security/news/mobile-safety/7-android-security-hacks-you-need-to-do-right-now)
 *   [Top 20 Android security apps](http://www.esecurityplanet.com/mobile-security/slideshows/top-20-android-security-apps.html) (seriously consider a few of these; Android is NOT VERY SECURE)
 *   [Windows Phone lock screen instructions](https://support.microsoft.com/en-us/help/10665/windows-phone-lock-screen-faq)
-
-### Mobile: Setting up WiscVPN
-
-*   iOS: [iPhone, iPod Touch, iPad](https://kb.wisc.edu/page.php?id=38981)
-*   [Android](https://kb.wisc.edu/page.php?id=25422)
 
 ### Password managers you can install
 
