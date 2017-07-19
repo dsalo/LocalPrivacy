@@ -88,7 +88,7 @@ Web trackers and advertising networks are a major source of privacy leakage; ad 
 Google tracks you and your search history. DuckDuckGo does not. Use DuckDuckGo as your default search engine.
 
 *   [Instructions for most browsers](https://home.bt.com/tech-gadgets/computing/chrome-firefox-edge-internet-explorer-change-default-search-engine-11364117803672)
-*   Alternately, go to [DuckDuckGo's home page](https://duckduckgo.com/) and see if DDG prompts you to change your default browser.
+*   Alternately, go to [DuckDuckGo's home page](https://duckduckgo.com/) and see if DDG prompts you to change your default search engine.
 
 ### Browser (mobile): Security/privacy plugins
 
