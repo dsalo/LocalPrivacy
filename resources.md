@@ -39,6 +39,7 @@ In general, if you're not using a particular communications protocol, turning it
 A Virtual Private Network (VPN) keeps your online activity from being snooped on by random outsiders. This is **especially** important when you are using public wifi, as at a coffeeshop or airport. UW-Madison's WiscVPN is free for students, faculty, and staff to use.
 
 *   [VPNs for Beginners](https://www.bestvpn.com/blog/38176/vpns-beginners-need-know/) (technical, but clearly explained)
+*   [The Best VPN Routers of 2017](https://greycoder.com/best-vpn-routers/) (if you want a VPN for home Internet traffic; NOTE THAT this may interfere with video-streaming services)
 
 ### Computer: The Onion Router (TOR)
 
