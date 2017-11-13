@@ -12,14 +12,31 @@ These are my top recommendations:
 
 ### Overall guides and tools
 
-*   [DoIT on Device Security](https://kb.wisc.edu/page.php?id=41746)
-*   [DoIT Security Scanning Tools](https://it.wisc.edu/about/office-of-the-cio/cybersecurity/security-scanning-tools/)
+These are terrific walk-throughs that will protect you from the commonest and most damaging privacy and security problems.
+
 *   EFF: [Security Self-Defense](https://ssd.eff.org/en)
-*   [The Ultimate Online Privacy Guide](https://www.bestvpn.com/the-ultimate-privacy-guide/)
 *   [Take Back the Tech Safety Toolkit](https://www.takebackthetech.net/be-safe/safety-toolkit)
 *   [Lock Down Your Digital Identity](http://femtechnet.org/csov/lock-down-your-digital-identity/)
 
-### Computer: hard-disk encryption
+## EVERYWHERE
+
+### Laptops, mobile, social media: Turning off geolocation
+
+The more you allow your devices and social media to geolocate you, the more extensive, accurate, and hackable/leakable a picture can be created of your habits.
+
+* [Snapchat](https://www.wired.com/story/how-to-turn-off-snapchat-snap-maps/)
+
+### Password managers you can install
+
+A password manager is what it sounds like: it creates and remembers hard-to-crack passwords so you don't have to! For many people, choosing bad passwords is their easiest-to-exploit security vulnerability. Most password managers can sync passwords among your devices.
+
+*   [LastPass](https://www.lastpass.com/) (freemium, pro version quite inexpensive)
+*   [KeePassX](https://www.keepassx.org/) (free/open source)
+*   [1Password](https://1password.com/) (pay)
+
+## LAPTOP OR DESKTOP COMPUTER
+
+### Hard-disk encryption
 
 Encrypting your hard disk means that if your computer is stolen or lost, whoever ends up with it next cannot see your data.
 
@@ -27,22 +44,25 @@ Encrypting your hard disk means that if your computer is stolen or lost, whoever
 *   Windows: [Windows 10](http://www.howtogeek.com/234826/how-to-enable-full-disk-encryption-on-windows-10/), [Windows 8](http://arstechnica.com/information-technology/2013/10/windows-8-1-includes-seamless-automatic-disk-encryption-if-your-pc-supports-it/), [Windows 7](https://technet.microsoft.com/en-us/library/dd835565(v=ws.10).aspx)
 *   Linux: try [TrueCrypt](http://www.howtogeek.com/howto/33255/how-to-secure-your-linux-pc-by-encrypting-your-hard-drive/)
 
-### Computer: disabling sharing and unnecessary communications protocols
+### Disabling sharing and unnecessary communications protocols
 
 In general, if you're not using a particular communications protocol, turning it off is wise. Doing so reduces the number of ways your computer can be hacked.
 
 *   Mac: [Security preference pane](https://www.lifewire.com/use-mac-security-preference-pane-2260745)
 *   Windows: [Windows 10](http://download.cnet.com/blog/download-blog/a-guide-to-windows-10-security-settings/), [Windows 8](http://www.makeuseof.com/tag/five-tips-managing-security-windows-8-1/)
 
-### Computer: Setting up WiscVPN
+### Setting up WiscVPN
 
 A Virtual Private Network (VPN) keeps your online activity from being snooped on by random outsiders. This is **especially** important when you are using public wifi, as at a coffeeshop or airport. UW-Madison's WiscVPN is free for students, faculty, and staff to use.
 
-*   Mac: [Connecting through Native VPN](https://kb.wisc.edu/page.php?id=12380)
+N.b.: Campus changed its WiscVPN infrastructure during summer 2017. The links below take you to updated content.
+
+*   Mac: [Connecting through Native VPN](https://kb.wisc.edu/page.php?id=12534)
 *   Windows: [WiscVPN AnyConnect client](https://kb.wisc.edu/page.php?id=11997) (for connection type, choose IP-pool-OffCampus)
+* Linux: [AnyConnect](https://kb.wisc.edu/page.php?id=9120)
 *   [VPNs for Beginners](https://www.bestvpn.com/blog/38176/vpns-beginners-need-know/) (technical, but clearly explained)
 
-### Computer: The Onion Router (TOR)
+### The Onion Router (TOR)
 
 Tor disguises your Internet traffic and disassociates you from it by concealing your IP address. The Tor Browser is Firefox + Tor, and is desktop/laptop cross-platform. Orbot is for Android phones and tablets. The Tails operating system is an OS-on-a-stick that you can take with you and use on computers you might not otherwise trust.
 
@@ -50,28 +70,7 @@ Tor disguises your Internet traffic and disassociates you from it by concealing 
 *   [Tor for Android](https://guardianproject.info/apps/orbot/) (Orbot)
 *   [Tails operating system](https://tails.boum.org/)
 
-### Mobile: Security settings and tools
-
-*   [DoIT's recommendations](https://it.wisc.edu/guides/secure-your-mobile-device/) (unfortunately, these are "what to do" not "how to do it")
-*   [Using mobile phones as securely as possible](https://securityinabox.org/en/guide/mobile-phones)
-*   iOS: [iPhone, iPod Touch, iPad](http://www.zdnet.com/pictures/ios-10-iphone-ipad-privacy-security-settings/)
-*   [Basic security setup for Android](https://securityinabox.org/en/guide/basic-setup/android)
-*   [Android](https://www.trendmicro.com/vinfo/us/security/news/mobile-safety/7-android-security-hacks-you-need-to-do-right-now)
-*   [Top 20 Android security apps](http://www.esecurityplanet.com/mobile-security/slideshows/top-20-android-security-apps.html) (seriously consider a few of these; Android is NOT VERY SECURE)
-*   [Windows Phone lock screen instructions](https://support.microsoft.com/en-us/help/10665/windows-phone-lock-screen-faq)
-
-### Mobile: Setting up WiscVPN
-
-*   iOS: [iPhone, iPod Touch, iPad](https://kb.wisc.edu/page.php?id=38981)
-*   [Android](https://kb.wisc.edu/page.php?id=25422)
-
-### Password managers you can install
-
-A password manager is what it sounds like: it creates and remembers hard-to-crack passwords so you don't have to! For many people, choosing bad passwords is their easiest-to-exploit security vulnerability.
-
-*   [LastPass](https://www.lastpass.com/) (freemium, pro version quite inexpensive)
-*   [KeePassX](https://www.keepassx.org/) (free/open source)
-*   [1Password](https://1password.com/) (pay)
+## BROWSER SETTINGS AND PLUGINS
 
 ### Browser (computer): Security-related settings
 
@@ -95,6 +94,23 @@ Google tracks you and your search history. DuckDuckGo does not. Use DuckDuckGo a
 
 *   [Instructions for most browsers](https://home.bt.com/tech-gadgets/computing/chrome-firefox-edge-internet-explorer-change-default-search-engine-11364117803672)
 *   Alternately, go to [DuckDuckGo's home page](https://duckduckgo.com/) and see if DDG prompts you to change your default search engine.
+
+## MOBILE
+
+### Security settings and tools
+
+*   [DoIT's recommendations](https://it.wisc.edu/guides/secure-your-mobile-device/) (unfortunately, these are "what to do" not "how to do it")
+*   [Using mobile phones as securely as possible](https://securityinabox.org/en/guide/mobile-phones)
+*   iOS: [iPhone, iPod Touch, iPad](http://www.zdnet.com/pictures/ios-10-iphone-ipad-privacy-security-settings/)
+*   [Basic security setup for Android](https://securityinabox.org/en/guide/basic-setup/android)
+*   [Android](https://www.trendmicro.com/vinfo/us/security/news/mobile-safety/7-android-security-hacks-you-need-to-do-right-now)
+*   [Top 20 Android security apps](http://www.esecurityplanet.com/mobile-security/slideshows/top-20-android-security-apps.html) (seriously consider a few of these; Android is NOT VERY SECURE)
+*   [Windows Phone lock screen instructions](https://support.microsoft.com/en-us/help/10665/windows-phone-lock-screen-faq)
+
+### Setting up WiscVPN
+
+*   iOS: [iPhone, iPod Touch, iPad](https://kb.wisc.edu/page.php?id=38981)
+*   [Android](https://kb.wisc.edu/page.php?id=25422)
 
 ### Browser (mobile): Security/privacy plugins
 
