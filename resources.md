@@ -20,10 +20,14 @@ These are terrific walk-throughs that will protect you from the commonest and mo
 
 ## EVERYWHERE
 
-### Laptops, mobile, social media: Turning off geolocation
+### Turning off geolocation
 
-The more you allow your devices and social media to geolocate you, the more extensive, accurate, and hackable/leakable a picture can be created of your habits.
+The more you allow your devices and social media to geolocate you, the more extensive, accurate, and hackable/leakable your travel habits are.
 
+* (Browsers) [How to stop websites from asking for your location](https://www.howtogeek.com/howto/16404/how-to-disable-the-new-geolocation-feature-in-google-chrome/)
+* (Windows 10) [How to turn Location Services off in Windows 10](http://www.ilovefreesoftware.com/14/windows-10/turn-location-services-windows-10.html)
+* (Mobile: Android/iPhone/iPad) [How to turn off geolocation on Android and iOS](https://whoer.net/blog/turn-off-geolocation-on-android-and-ios/)
+* (Social media) [How to protect your location from criminals on Snapchat, Facebook, Twitter and Instagram](http://mashable.com/2016/10/03/how-to-hide-location-social-media/)
 * [Snapchat](https://www.wired.com/story/how-to-turn-off-snapchat-snap-maps/)
 
 ### Password managers you can install
