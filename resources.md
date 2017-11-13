@@ -12,7 +12,7 @@ These are my top recommendations:
 
 ### Overall guides and tools
 
-These are terrific walk-throughs that will protect you from the commonest and most damaging privacy and security problems.
+These are terrific mostly-comprehensive walk-throughs that will protect you from the commonest and most damaging privacy and security vulnerabilities.
 
 *   EFF: [Security Self-Defense](https://ssd.eff.org/en)
 *   [Take Back the Tech Safety Toolkit](https://www.takebackthetech.net/be-safe/safety-toolkit)
@@ -28,9 +28,10 @@ The more you allow your devices and social media to geolocate you, the more exte
 * (Windows 10) [How to turn Location Services off in Windows 10](http://www.ilovefreesoftware.com/14/windows-10/turn-location-services-windows-10.html)
 * (Mobile: Android/iPhone/iPad) [How to turn off geolocation on Android and iOS](https://whoer.net/blog/turn-off-geolocation-on-android-and-ios/)
 * (Social media) [How to protect your location from criminals on Snapchat, Facebook, Twitter and Instagram](http://mashable.com/2016/10/03/how-to-hide-location-social-media/)
+* (Facebook) [How to disable Facebook Places location tracking](https://www.lifewire.com/how-to-disable-facebook-places-location-tracking-2487718)
 * [Snapchat](https://www.wired.com/story/how-to-turn-off-snapchat-snap-maps/)
 
-### Password managers you can install
+### Using password managers
 
 A password manager is what it sounds like: it creates and remembers hard-to-crack passwords so you don't have to! For many people, choosing bad passwords is their easiest-to-exploit security vulnerability. Most password managers can sync passwords among your devices.
 
@@ -40,9 +41,9 @@ A password manager is what it sounds like: it creates and remembers hard-to-crac
 
 ## LAPTOP OR DESKTOP COMPUTER
 
-### Hard-disk encryption
+### Encrypting your hard drive
 
-Encrypting your hard disk means that if your computer is stolen or lost, whoever ends up with it next cannot see your data.
+Encrypting your hard drive means that if your computer is stolen or lost, whoever ends up with it next cannot see your data.
 
 *   Mac: [Setting up FileVault](https://support.apple.com/kb/PH25553?viewlocale=en_US&locale=en_US)
 *   Windows: [Windows 10](http://www.howtogeek.com/234826/how-to-enable-full-disk-encryption-on-windows-10/), [Windows 8](http://arstechnica.com/information-technology/2013/10/windows-8-1-includes-seamless-automatic-disk-encryption-if-your-pc-supports-it/), [Windows 7](https://technet.microsoft.com/en-us/library/dd835565(v=ws.10).aspx)
@@ -59,7 +60,7 @@ In general, if you're not using a particular communications protocol, turning it
 
 A Virtual Private Network (VPN) keeps your online activity from being snooped on by random outsiders. This is **especially** important when you are using public wifi, as at a coffeeshop or airport. UW-Madison's WiscVPN is free for students, faculty, and staff to use.
 
-N.b.: Campus changed its WiscVPN infrastructure during summer 2017. The links below take you to updated content.
+N.b.: Campus changed its WiscVPN infrastructure during summer 2017. The links below should take you to updated content.
 
 *   Mac: [Connecting through Native VPN](https://kb.wisc.edu/page.php?id=12534)
 *   Windows: [WiscVPN AnyConnect client](https://kb.wisc.edu/page.php?id=11997) (for connection type, choose IP-pool-OffCampus)
@@ -99,23 +100,6 @@ Google tracks you and your search history. DuckDuckGo does not. Use DuckDuckGo a
 *   [Instructions for most browsers](https://home.bt.com/tech-gadgets/computing/chrome-firefox-edge-internet-explorer-change-default-search-engine-11364117803672)
 *   Alternately, go to [DuckDuckGo's home page](https://duckduckgo.com/) and see if DDG prompts you to change your default search engine.
 
-## MOBILE
-
-### Security settings and tools
-
-*   [DoIT's recommendations](https://it.wisc.edu/guides/secure-your-mobile-device/) (unfortunately, these are "what to do" not "how to do it")
-*   [Using mobile phones as securely as possible](https://securityinabox.org/en/guide/mobile-phones)
-*   iOS: [iPhone, iPod Touch, iPad](http://www.zdnet.com/pictures/ios-10-iphone-ipad-privacy-security-settings/)
-*   [Basic security setup for Android](https://securityinabox.org/en/guide/basic-setup/android)
-*   [Android](https://www.trendmicro.com/vinfo/us/security/news/mobile-safety/7-android-security-hacks-you-need-to-do-right-now)
-*   [Top 20 Android security apps](http://www.esecurityplanet.com/mobile-security/slideshows/top-20-android-security-apps.html) (seriously consider a few of these; Android is NOT VERY SECURE)
-*   [Windows Phone lock screen instructions](https://support.microsoft.com/en-us/help/10665/windows-phone-lock-screen-faq)
-
-### Setting up WiscVPN
-
-*   iOS: [iPhone, iPod Touch, iPad](https://kb.wisc.edu/page.php?id=38981)
-*   [Android](https://kb.wisc.edu/page.php?id=25422)
-
 ### Browser (mobile): Security/privacy plugins
 
 *   [Safari on iOS](http://www.idownloadblog.com/2016/01/14/safari-privacy-iphone-ipad/)
@@ -123,8 +107,25 @@ Google tracks you and your search history. DuckDuckGo does not. Use DuckDuckGo a
 *   [Firefox (any platform)](https://addons.mozilla.org/en-US/firefox/extensions/privacy-security/)
 *   [Chrome (usually Android)](https://chrome.google.com/webstore/search/privacy)
 
-### Social media and other trackers: Privacy configuration and settings
+## MOBILE
 
+### Security settings and tools
+
+*   iOS: [iPhone, iPod Touch, iPad](http://www.zdnet.com/pictures/ios-10-iphone-ipad-privacy-security-settings/)
+*   [Basic security setup for Android](https://securityinabox.org/en/guide/basic-setup/android)
+*   [Android](https://www.trendmicro.com/vinfo/us/security/news/mobile-safety/7-android-security-hacks-you-need-to-do-right-now)
+*   [Using mobile phones as securely as possible](https://securityinabox.org/en/guide/mobile-phones)
+
+### Setting up WiscVPN
+
+*   iOS: [iPhone, iPod Touch, iPad](https://kb.wisc.edu/page.php?id=38981)
+*   [Android](https://kb.wisc.edu/page.php?id=25422)
+
+## SOCIAL MEDIA AND SEARCH ENGINES
+
+### Privacy configuration and settings
+
+* [Facebook: The always up-to-date guide to managing your Facebook privavcy](https://lifehacker.com/5813990/the-always-up-to-date-guide-to-managing-your-facebook-privacy)
 *   [Facebook](http://mashable.com/2016/11/29/facebook-privacy-checkup/#JDhKY_r0gqqp)
 *   [Guide for Facebook, Twitter, Instagram, Snapchat](https://www.uc.edu/infosec/info/SocialMediaPrivacySettings.html)
 *   [Google security settings](https://myaccount.google.com/security) (go through all of these and choose the most private option! turn off personalization!)
