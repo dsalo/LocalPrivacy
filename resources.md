@@ -10,7 +10,7 @@ These are my top recommendations:
 *  All web browsers, including mobile: [Change your default search engine away from Google](https://home.bt.com/tech-gadgets/computing/chrome-firefox-edge-internet-explorer-change-default-search-engine-11364117803672). Also, [minimize Google's tracking](https://myaccount.google.com/security).
 *   [Maximize your privacy on social media](https://www.uc.edu/infosec/info/SocialMediaPrivacySettings.html)
 
-## Overall guides and tools
+## COMPREHENSIVE GUIDES
 
 These are terrific mostly-comprehensive walk-throughs that will protect you from the commonest and most damaging privacy and security vulnerabilities.
 
