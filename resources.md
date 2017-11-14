@@ -10,7 +10,7 @@ These are my top recommendations:
 *  All web browsers, including mobile: [Change your default search engine away from Google](https://home.bt.com/tech-gadgets/computing/chrome-firefox-edge-internet-explorer-change-default-search-engine-11364117803672). Also, [minimize Google's tracking](https://myaccount.google.com/security).
 *   [Maximize your privacy on social media](https://www.uc.edu/infosec/info/SocialMediaPrivacySettings.html)
 
-### Overall guides and tools
+## Overall guides and tools
 
 These are terrific mostly-comprehensive walk-throughs that will protect you from the commonest and most damaging privacy and security vulnerabilities.
 
@@ -18,11 +18,17 @@ These are terrific mostly-comprehensive walk-throughs that will protect you from
 *   [Take Back the Tech Safety Toolkit](https://www.takebackthetech.net/be-safe/safety-toolkit)
 *   [Lock Down Your Digital Identity](http://femtechnet.org/csov/lock-down-your-digital-identity/)
 
+## INTERNET OF THINGS
+
+This one's easy: DON'T BUY THESE THINGS. No smart/talking toys. No Alexa, no Echo. No smart appliances or lightbulbs or whatever.
+
+Just don't. Their security is terrible and their privacy policies worse.
+
 ## EVERYWHERE
 
 ### Turning off geolocation
 
-The more you allow your devices and social media to geolocate you, the more extensive, accurate, and hackable/leakable your travel habits are.
+The more you allow your devices and social media to geolocate you, the more extensive, accurate, and hackable/leakable a picture of your habits exists. If you believe yourself to be in danger from a stalker, or just an ordinary nosy person, turning off geolocation is smart.
 
 * (Browsers) [How to stop websites from asking for your location](https://www.howtogeek.com/howto/16404/how-to-disable-the-new-geolocation-feature-in-google-chrome/)
 * (Windows 10) [How to turn Location Services off in Windows 10](http://www.ilovefreesoftware.com/14/windows-10/turn-location-services-windows-10.html)
@@ -82,6 +88,13 @@ Tor disguises your Internet traffic and disassociates you from it by concealing 
 *   [Firefox](http://www.pcworld.com/article/2039455/five-steps-to-ultimate-firefox-security.html)
 *   [Chrome](https://ajarr.org/home/security-recommendations/item/57-google-chrome-browser-settings)
 
+### Browser (computer and mobile): Changing default search engine away from Google
+
+Google tracks you and your search history. DuckDuckGo does not. Use DuckDuckGo as your default search engine.
+
+*   [Instructions for most browsers](https://home.bt.com/tech-gadgets/computing/chrome-firefox-edge-internet-explorer-change-default-search-engine-11364117803672)
+*   Alternately, go to [DuckDuckGo's home page](https://duckduckgo.com/) and see if DDG prompts you to change your default search engine.
+
 ### Browser (computer): Security/privacy plugins
 
 Web trackers and advertising networks are a major source of privacy leakage; ad networks increasingly contain malware. Every browser should install Privacy Badger and HTTPS Everywhere at minimum.
@@ -92,13 +105,6 @@ Web trackers and advertising networks are a major source of privacy leakage; ad 
 *   [More suggestions (cross-browser)](http://skytechgeek.com/2016/12/5-must-have-privacy-add-ons-for-your-browser/)
 *   [Chrome Store plugins](https://chrome.google.com/webstore/search/privacy)
 *   [5 security tools for Windows Phone](https://blog.kaspersky.com/windows-8-security-apps/4881/)
-
-### Browser (computer and mobile): Changing default search engine away from Google
-
-Google tracks you and your search history. DuckDuckGo does not. Use DuckDuckGo as your default search engine.
-
-*   [Instructions for most browsers](https://home.bt.com/tech-gadgets/computing/chrome-firefox-edge-internet-explorer-change-default-search-engine-11364117803672)
-*   Alternately, go to [DuckDuckGo's home page](https://duckduckgo.com/) and see if DDG prompts you to change your default search engine.
 
 ### Browser (mobile): Security/privacy plugins
 
