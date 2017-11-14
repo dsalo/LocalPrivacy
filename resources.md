@@ -70,7 +70,7 @@ N.b.: Campus changed its WiscVPN infrastructure during summer 2017. The links be
 
 *   Mac: [Connecting through Native VPN](https://kb.wisc.edu/page.php?id=12534)
 *   Windows: [WiscVPN AnyConnect client](https://kb.wisc.edu/page.php?id=11997) (for connection type, choose IP-pool-OffCampus)
-* Linux: [AnyConnect](https://kb.wisc.edu/page.php?id=9120)
+*   Linux: [AnyConnect](https://kb.wisc.edu/page.php?id=9120)
 *   [VPNs for Beginners](https://www.bestvpn.com/blog/38176/vpns-beginners-need-know/) (technical, but clearly explained)
 
 ### The Onion Router (TOR)
@@ -87,6 +87,7 @@ Tor disguises your Internet traffic and disassociates you from it by concealing 
 
 *   [Firefox](http://www.pcworld.com/article/2039455/five-steps-to-ultimate-firefox-security.html)
 *   [Chrome](https://ajarr.org/home/security-recommendations/item/57-google-chrome-browser-settings)
+*   [Microsoft Edge](https://www.cnet.com/how-to/get-to-know-the-security-features-in-edge/)
 
 ### Browser (computer and mobile): Changing default search engine away from Google
 
@@ -131,7 +132,7 @@ Web trackers and advertising networks are a major source of privacy leakage; ad 
 
 ### Privacy configuration and settings
 
-* [Facebook: The always up-to-date guide to managing your Facebook privavcy](https://lifehacker.com/5813990/the-always-up-to-date-guide-to-managing-your-facebook-privacy)
+*   [Facebook: The always up-to-date guide to managing your Facebook privavcy](https://lifehacker.com/5813990/the-always-up-to-date-guide-to-managing-your-facebook-privacy)
 *   [Facebook](http://mashable.com/2016/11/29/facebook-privacy-checkup/#JDhKY_r0gqqp)
 *   [Guide for Facebook, Twitter, Instagram, Snapchat](https://www.uc.edu/infosec/info/SocialMediaPrivacySettings.html)
 *   [Google security settings](https://myaccount.google.com/security) (go through all of these and choose the most private option! turn off personalization!)
