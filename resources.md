@@ -105,7 +105,6 @@ Web trackers and advertising networks are a major source of privacy leakage; ad 
 *   [uBlock Origin](https://github.com/gorhill/uBlock/#installation)
 *   [More suggestions (cross-browser)](http://skytechgeek.com/2016/12/5-must-have-privacy-add-ons-for-your-browser/)
 *   [Chrome Store plugins](https://chrome.google.com/webstore/search/privacy)
-*   [5 security tools for Windows Phone](https://blog.kaspersky.com/windows-8-security-apps/4881/)
 
 ### Browser (mobile): Security/privacy plugins
 
