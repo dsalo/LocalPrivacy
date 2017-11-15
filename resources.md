@@ -131,7 +131,7 @@ Web trackers and advertising networks are a major source of privacy leakage; ad 
 
 ### Privacy configuration and settings
 
-*   [Facebook: The always up-to-date guide to managing your Facebook privavcy](https://lifehacker.com/5813990/the-always-up-to-date-guide-to-managing-your-facebook-privacy)
+*   [Facebook: The always up-to-date guide to managing your Facebook privacy](https://lifehacker.com/5813990/the-always-up-to-date-guide-to-managing-your-facebook-privacy)
 *   [Facebook](http://mashable.com/2016/11/29/facebook-privacy-checkup/#JDhKY_r0gqqp)
 *   [Guide for Facebook, Twitter, Instagram, Snapchat](https://www.uc.edu/infosec/info/SocialMediaPrivacySettings.html)
 *   [Google security settings](https://myaccount.google.com/security) (go through all of these and choose the most private option! turn off personalization!)
