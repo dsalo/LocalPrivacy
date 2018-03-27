@@ -2,6 +2,10 @@
 
 This is a list of things you can do to improve your computer's security and your own privacy. Please feel free to ask questions about any of them!
 
+### I don't know where to start!
+
+That's common! There's a great tool to help you sort through that: the [Security Planner](https://www.securityplanner.org/). Feel free to start there and come back!
+
 ### Wow, this is long! What should I do first?
 
 These are my top recommendations:
