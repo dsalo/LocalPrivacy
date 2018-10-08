@@ -1,4 +1,4 @@
-### What is this?
+## What is this?
 
 This is a list of things you can do to improve your computer's security and your own privacy. Please feel free to ask questions about any of them!
 
@@ -28,7 +28,7 @@ This one's easy: DON'T BUY THESE THINGS. No smart/talking toys. No Alexa, no Ech
 
 Just don't. Their security is terrible and their privacy policies worse.
 
-## EVERYWHERE
+## ON EVERY DEVICE
 
 ### Turning off geolocation
 
