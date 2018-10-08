@@ -32,7 +32,7 @@ Just don't. Their security is terrible and their privacy policies worse.
 
 ### Turning off geolocation
 
-The more you allow your devices and social media to geolocate you, the more extensive, accurate, and hackable/leakable a picture of your habits exists. If you believe yourself to be in danger from a stalker, or just an ordinary nosy person, turning off geolocation is smart.
+The more you allow your devices and social media to geolocate you, the more extensive, accurate, and hackable/leakable a picture of your habits exists. Stores, colleges/universities, and online trackers are collecting and keeping geolocation information to build such pictures. Also, if you believe yourself to be in danger from a stalker or domestic abuser, or even if you're just dealing with an ordinary nosy person, turning off geolocation is smart.
 
 * (Browsers) [How to stop websites from asking for your location](https://www.howtogeek.com/howto/16404/how-to-disable-the-new-geolocation-feature-in-google-chrome/)
 * (Windows 10) [How to turn Location Services off in Windows 10](http://www.ilovefreesoftware.com/14/windows-10/turn-location-services-windows-10.html)
