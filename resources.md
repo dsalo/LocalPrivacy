@@ -55,7 +55,7 @@ A password manager is what it sounds like: it creates and remembers hard-to-crac
 
 Encrypting your hard drive means that if your computer is stolen or lost, whoever ends up with it next cannot see your data.
 
-*   Mac: [Setting up FileVault](https://support.apple.com/kb/PH25553?viewlocale=en_US&locale=en_US)
+*   Mac: [FileVault](https://support.apple.com/en-us/HT204837)
 *   Windows: [Windows 10](http://www.howtogeek.com/234826/how-to-enable-full-disk-encryption-on-windows-10/), [Windows 8](http://arstechnica.com/information-technology/2013/10/windows-8-1-includes-seamless-automatic-disk-encryption-if-your-pc-supports-it/), [Windows 7](https://technet.microsoft.com/en-us/library/dd835565(v=ws.10).aspx)
 *   Linux: try [TrueCrypt](http://www.howtogeek.com/howto/33255/how-to-secure-your-linux-pc-by-encrypting-your-hard-drive/)
 
@@ -72,9 +72,7 @@ A Virtual Private Network (VPN) keeps your online activity from being snooped on
 
 N.b.: Campus changed its WiscVPN infrastructure during summer 2017. The links below should take you to updated content.
 
-*   Mac: [Connecting through Native VPN](https://kb.wisc.edu/page.php?id=12534)
-*   Windows: [WiscVPN AnyConnect client](https://kb.wisc.edu/page.php?id=11997) (for connection type, choose IP-pool-OffCampus)
-*   Linux: [AnyConnect](https://kb.wisc.edu/page.php?id=9120)
+*   Mac, Windows, Linux: [AnyConnect in the Knowledge Base](https://kb.wisc.edu/search.php?q=anyconnect)
 *   [VPNs for Beginners](https://www.bestvpn.com/blog/38176/vpns-beginners-need-know/) (technical, but clearly explained)
 
 ### The Onion Router (TOR)
@@ -90,7 +88,7 @@ Tor disguises your Internet traffic and disassociates you from it by concealing 
 ### Browser (computer): Security-related settings
 
 *   [Firefox](http://www.pcworld.com/article/2039455/five-steps-to-ultimate-firefox-security.html)
-*   [Chrome](https://ajarr.org/home/security-recommendations/item/57-google-chrome-browser-settings)
+*   [Chrome](https://www.techrepublic.com/article/google-chrome-security-tips-for-the-paranoid-at-heart/)
 *   [Microsoft Edge](https://www.cnet.com/how-to/get-to-know-the-security-features-in-edge/)
 
 ### Browser (computer and mobile): Changing default search engine away from Google
@@ -124,11 +122,11 @@ Web trackers and advertising networks are a major source of privacy leakage; ad 
 *   iOS: [iPhone, iPod Touch, iPad](http://www.zdnet.com/pictures/ios-10-iphone-ipad-privacy-security-settings/)
 *   [Basic security setup for Android](https://securityinabox.org/en/guide/basic-setup/android)
 *   [Android](https://www.trendmicro.com/vinfo/us/security/news/mobile-safety/7-android-security-hacks-you-need-to-do-right-now)
-*   [Using mobile phones as securely as possible](https://securityinabox.org/en/guide/mobile-phones)
+*   [Using mobile phones as securely as possible](hhttps://securityinabox.org/en/guide/smartphones/)
 
 ### Setting up WiscVPN
 
-*   iOS: [iPhone, iPod Touch, iPad](https://kb.wisc.edu/page.php?id=38981)
+*   iOS: [iPhone, iPod Touch, iPad](https://kb.wisc.edu/page.php?id=28868)
 *   [Android](https://kb.wisc.edu/page.php?id=25422)
 
 ## SOCIAL MEDIA AND SEARCH ENGINES
