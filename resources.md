@@ -36,6 +36,7 @@ The more you allow your devices and social media to geolocate you, the more exte
 
 * (Browsers) [How to stop websites from asking for your location](https://www.howtogeek.com/howto/16404/how-to-disable-the-new-geolocation-feature-in-google-chrome/)
 * (Windows 10) [How to turn Location Services off in Windows 10](http://www.ilovefreesoftware.com/14/windows-10/turn-location-services-windows-10.html)
+* (Mobile: Android/iPhone/iPad, also Google) [How to Stop Apps from Tracking Your Location](https://www.nytimes.com/2018/12/10/technology/prevent-location-data-sharing.html)
 * (Mobile: Android/iPhone/iPad) [How to turn off geolocation on Android and iOS](https://whoer.net/blog/turn-off-geolocation-on-android-and-ios/)
 * (Social media) [How to protect your location from criminals on Snapchat, Facebook, Twitter and Instagram](http://mashable.com/2016/10/03/how-to-hide-location-social-media/)
 * (Facebook) [How to disable Facebook Places location tracking](https://www.lifewire.com/how-to-disable-facebook-places-location-tracking-2487718)
