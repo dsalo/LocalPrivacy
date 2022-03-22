@@ -4,22 +4,21 @@ This is a list of things you can do to improve your computer's security and your
 
 ### I don't know where to start!
 
-That's common! There's a great tool to help you sort through that: the [Security Planner](https://www.securityplanner.org/). Feel free to start there and come back!
+That's common! There's a great tool to help you sort through that: the [Security Planner](https://securityplanner.consumerreports.org/). Feel free to start there and come back!
 
 ### Wow, this is long! What should I do first?
 
 These are my top recommendations:
 
-* Laptops and desktops: Install [HTTPS Everywhere](https://www.eff.org/https-everywhere) and [Privacy Badger](https://www.eff.org/privacybadger) in your favorite web browser
-*  All web browsers, including mobile: [Change your default search engine away from Google](https://home.bt.com/tech-gadgets/computing/chrome-firefox-edge-internet-explorer-change-default-search-engine-11364117803672). Also, [minimize Google's tracking](https://myaccount.google.com/security).
-*   [Maximize your privacy on social media](https://www.uc.edu/infosec/info/SocialMediaPrivacySettings.html)
+* Laptops and desktops: Install [Privacy Badger](https://www.eff.org/privacybadger) in your favorite web browser.
+*  All web browsers, including mobile: [Change your default search engine away from Google](https://gizmodo.com/the-best-google-search-alternatives-if-privacy-is-your-1848613488). Also, [minimize Google's tracking](https://myaccount.google.com/security).
+*   [Maximize your privacy on social media](https://www.ncsc.gov.uk/guidance/social-media-how-to-use-it-safely)
 
 ## COMPREHENSIVE GUIDES
 
 These are terrific mostly-comprehensive walk-throughs that will protect you from the commonest and most damaging privacy and security vulnerabilities.
 
 *   EFF: [Security Self-Defense](https://ssd.eff.org/en)
-*   [Take Back the Tech Safety Toolkit](https://www.takebackthetech.net/be-safe/safety-toolkit)
 *   [Lock Down Your Digital Identity](http://femtechnet.org/csov/lock-down-your-digital-identity/)
 
 ## INTERNET OF THINGS
@@ -46,8 +45,8 @@ The more you allow your devices and social media to geolocate you, the more exte
 
 A password manager is what it sounds like: it creates and remembers hard-to-crack passwords so you don't have to! For many people, choosing bad passwords is their easiest-to-exploit security vulnerability. Most password managers can sync passwords among your devices.
 
-*   [LastPass](https://www.lastpass.com/) (freemium, pro version quite inexpensive)
-*   [KeePassX](https://www.keepassx.org/) (free/open source)
+*   [Bitwarden](https://bitwarden.com/) (freemium, free version is capable, pro version quite inexpensive)
+*   [KeePassXC](https://keepassxc.org/) (free/open source)
 *   [1Password](https://1password.com/) (pay)
 
 ## LAPTOP OR DESKTOP COMPUTER
@@ -57,7 +56,7 @@ A password manager is what it sounds like: it creates and remembers hard-to-crac
 Encrypting your hard drive means that if your computer is stolen or lost, whoever ends up with it next cannot see your data.
 
 *   Mac: [FileVault](https://support.apple.com/en-us/HT204837)
-*   Windows: [Windows 10](http://www.howtogeek.com/234826/how-to-enable-full-disk-encryption-on-windows-10/), [Windows 8](http://arstechnica.com/information-technology/2013/10/windows-8-1-includes-seamless-automatic-disk-encryption-if-your-pc-supports-it/), [Windows 7](https://technet.microsoft.com/en-us/library/dd835565(v=ws.10).aspx)
+*   Windows: [Windows 10 and 11](https://support.microsoft.com/en-us/windows/device-encryption-in-windows-ad5dcf4b-dbe0-2331-228f-7925c2a3012d), [Windows 8](http://arstechnica.com/information-technology/2013/10/windows-8-1-includes-seamless-automatic-disk-encryption-if-your-pc-supports-it/), [Windows 7](https://technet.microsoft.com/en-us/library/dd835565(v=ws.10).aspx)
 *   Linux: try [TrueCrypt](http://www.howtogeek.com/howto/33255/how-to-secure-your-linux-pc-by-encrypting-your-hard-drive/)
 
 ### Disabling sharing and unnecessary communications protocols
@@ -65,23 +64,20 @@ Encrypting your hard drive means that if your computer is stolen or lost, whoeve
 In general, if you're not using a particular communications protocol, turning it off is wise. Doing so reduces the number of ways your computer can be hacked.
 
 *   Mac: [Security preference pane](https://www.lifewire.com/use-mac-security-preference-pane-2260745)
-*   Windows: [Windows 10](http://download.cnet.com/blog/download-blog/a-guide-to-windows-10-security-settings/), [Windows 8](http://www.makeuseof.com/tag/five-tips-managing-security-windows-8-1/)
+*   Windows: [Windows 11](https://www.wired.com/story/11-security-settings-windows-11/), [Windows 10](http://download.cnet.com/blog/download-blog/a-guide-to-windows-10-security-settings/), [Windows 8](http://www.makeuseof.com/tag/five-tips-managing-security-windows-8-1/)
 
 ### Setting up WiscVPN
 
 A Virtual Private Network (VPN) keeps your online activity from being snooped on by random outsiders. This is **especially** important when you are using public wifi, as at a coffeeshop or airport. UW-Madison's WiscVPN is free for students, faculty, and staff to use.
 
-N.b.: Campus changed its WiscVPN infrastructure during summer 2017. The links below should take you to updated content.
-
-*   Mac, Windows, Linux: [AnyConnect in the Knowledge Base](https://kb.wisc.edu/search.php?q=anyconnect)
+*   Mac, Windows, Linux: [WiscVPN](https://kb.wisc.edu/108255)
 *   [VPNs for Beginners](https://www.bestvpn.com/blog/38176/vpns-beginners-need-know/) (technical, but clearly explained)
 
 ### The Onion Router (TOR)
 
 Tor disguises your Internet traffic and disassociates you from it by concealing your IP address. The Tor Browser is Firefox + Tor, and is desktop/laptop cross-platform. Orbot is for Android phones and tablets. The Tails operating system is an OS-on-a-stick that you can take with you and use on computers you might not otherwise trust.
 
-*   [Tor Browser](https://www.torproject.org/projects/torbrowser.html.en)
-*   [Tor for Android](https://guardianproject.info/apps/orbot/) (Orbot)
+*   [Tor Browser](https://www.torproject.org/download/)
 *   [Tails operating system](https://tails.boum.org/)
 
 ## BROWSER SETTINGS AND PLUGINS
