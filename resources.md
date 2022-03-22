@@ -12,7 +12,7 @@ These are my top recommendations:
 
 * Laptops and desktops: Install [Privacy Badger](https://www.eff.org/privacybadger) in your favorite web browser.
 *  All web browsers, including mobile: [Change your default search engine away from Google](https://gizmodo.com/the-best-google-search-alternatives-if-privacy-is-your-1848613488). Also, [minimize Google's tracking](https://myaccount.google.com/security).
-*   [Maximize your privacy on social media](https://www.ncsc.gov.uk/guidance/social-media-how-to-use-it-safely)
+*   [Maximize your privacy on social media](https://www.ncsc.gov.uk/guidance/social-media-how-to-use-it-safely).
 
 ## COMPREHENSIVE GUIDES
 
@@ -20,10 +20,11 @@ These are terrific mostly-comprehensive walk-throughs that will protect you from
 
 *   EFF: [Security Self-Defense](https://ssd.eff.org/en)
 *   [Lock Down Your Digital Identity](http://femtechnet.org/csov/lock-down-your-digital-identity/)
+*   [Restore Privacy](https://restoreprivacy.com/) has a lot of useful tool suggestions and reviews, as well as pieces targeted to specific situations you might encounter.
 
 ## INTERNET OF THINGS
 
-This one's easy: DON'T BUY THESE THINGS. No smart/talking toys. No Alexa, no Echo. No smart appliances or lightbulbs or whatever.
+This one's easy: DON'T BUY THESE THINGS. No smart/talking toys. No Alexa, no Echo, no Siri. No smart appliances or lightbulbs or whatever.
 
 Just don't. Their security is terrible and their privacy policies worse.
 
@@ -75,7 +76,7 @@ A Virtual Private Network (VPN) keeps your online activity from being snooped on
 
 ### The Onion Router (TOR)
 
-Tor disguises your Internet traffic and disassociates you from it by concealing your IP address. The Tor Browser is Firefox + Tor, and is desktop/laptop cross-platform. Orbot is for Android phones and tablets. The Tails operating system is an OS-on-a-stick that you can take with you and use on computers you might not otherwise trust.
+Tor disguises your Internet traffic and disassociates you from it by concealing your IP address. The Tor Browser is Firefox + Tor, and is desktop/laptop cross-platform. The Tails operating system is an OS-on-a-stick that you can take with you and use on computers you might not otherwise trust.
 
 *   [Tor Browser](https://www.torproject.org/download/)
 *   [Tails operating system](https://tails.boum.org/)
@@ -92,14 +93,13 @@ Tor disguises your Internet traffic and disassociates you from it by concealing 
 
 Google tracks you and your search history. DuckDuckGo does not. Use DuckDuckGo as your default search engine.
 
-*   [Instructions for most browsers](https://home.bt.com/tech-gadgets/computing/chrome-firefox-edge-internet-explorer-change-default-search-engine-11364117803672)
+*   [Instructions for most browsers](https://duckduckgo.com/install)
 *   Alternately, go to [DuckDuckGo's home page](https://duckduckgo.com/) and see if DDG prompts you to change your default search engine.
 
 ### Browser (computer): Security/privacy plugins
 
 Web trackers and advertising networks are a major source of privacy leakage; ad networks increasingly contain malware. Every browser should install Privacy Badger and HTTPS Everywhere at minimum.
 
-*   [HTTPS Everywhere](https://www.eff.org/https-everywhere)
 *   [Privacy Badger!](https://www.eff.org/privacybadger)
 *   [uBlock Origin](https://github.com/gorhill/uBlock/#installation)
 *   [More suggestions (cross-browser)](http://skytechgeek.com/2016/12/5-must-have-privacy-add-ons-for-your-browser/)
@@ -114,6 +114,8 @@ Web trackers and advertising networks are a major source of privacy leakage; ad 
 
 ## MOBILE
 
+It's  wise to go through your phone/tablet two or three times a year to **delete apps you don't use.** Every app you delete is one less app that can track you, and one less app that might offer attackers a way to hack your phone.
+
 ### Security settings and tools
 
 *   iOS: [iPhone, iPod Touch, iPad](http://www.zdnet.com/pictures/ios-10-iphone-ipad-privacy-security-settings/)
@@ -121,17 +123,16 @@ Web trackers and advertising networks are a major source of privacy leakage; ad 
 *   [Android](https://www.trendmicro.com/vinfo/us/security/news/mobile-safety/7-android-security-hacks-you-need-to-do-right-now)
 *   [Using mobile phones as securely as possible](hhttps://securityinabox.org/en/guide/smartphones/)
 
-### Setting up WiscVPN
+### iOS app privacy settings
 
-*   iOS: [iPhone, iPod Touch, iPad](https://kb.wisc.edu/page.php?id=28868)
-*   [Android](https://kb.wisc.edu/page.php?id=25422)
+*   [Apple's Privacy Nutrition Labels](https://support.apple.com/en-us/HT211970)
+*   [iOS 15 privacy settings](https://www.wired.com/story/ios-15-privacy-settings-you-should-change-right-now/)
 
 ## SOCIAL MEDIA AND SEARCH ENGINES
 
 ### Privacy configuration and settings
 
 *   [Facebook: The always up-to-date guide to managing your Facebook privacy](https://lifehacker.com/5813990/the-always-up-to-date-guide-to-managing-your-facebook-privacy)
-*   [Facebook](http://mashable.com/2016/11/29/facebook-privacy-checkup/#JDhKY_r0gqqp)
 *   [Guide for Facebook, Twitter, Instagram, Snapchat](https://www.uc.edu/infosec/info/SocialMediaPrivacySettings.html)
 *   [Google security settings](https://myaccount.google.com/security) (go through all of these and choose the most private option! turn off personalization!)
 *   [Google privacy settings](https://myaccount.google.com/privacy)
