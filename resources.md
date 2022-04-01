@@ -33,7 +33,7 @@ Just don't. Their security is terrible and their privacy policies worse.
 
 ### Using password managers
 
-A password manager is what it sounds like: it creates and remembers hard-to-crack passwords so you don't have to! For many people, choosing bad passwords is their easiest-to-exploit security vulnerability. Most password managers can sync passwords among your devices.
+A password manager is what it sounds like: it creates and remembers hard-to-crack passwords so you don't have to! For many people, choosing bad passwords and reusing passwords are their easiest-to-exploit security vulnerabilities. Password managers can sync passwords among your devices, making long passwords much easier to use.
 
 *   [Bitwarden](https://bitwarden.com/) (freemium, free version is capable, pro version quite inexpensive)
 *   [KeePassXC](https://keepassxc.org/) (free/open source)
