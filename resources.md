@@ -10,6 +10,7 @@ That's common! There's a great tool to help you sort through that: the [Security
 
 These are my top recommendations:
 
+* Install a password manager on all your devices, and start adding your passwords to it.
 * Laptops and desktops: Install [Privacy Badger](https://www.eff.org/privacybadger) in your favorite web browser.
 *  All web browsers, including mobile: [Change your default search engine away from Google](https://gizmodo.com/the-best-google-search-alternatives-if-privacy-is-your-1848613488). Also, [minimize Google's tracking](https://myaccount.google.com/security).
 *   [Maximize your privacy on social media](https://www.ncsc.gov.uk/guidance/social-media-how-to-use-it-safely).
