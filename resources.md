@@ -37,7 +37,6 @@ A password manager is what it sounds like: it creates and remembers hard-to-crac
 
 *   [Bitwarden](https://bitwarden.com/) (freemium, free version is capable, pro version quite inexpensive)
 *   [KeePassXC](https://keepassxc.org/) (free/open source)
-*   [1Password](https://1password.com/) (pay)
 
 ### Turning off geolocation
 
