@@ -31,6 +31,14 @@ Just don't. Their security is terrible and their privacy policies worse.
 
 ## ON EVERY DEVICE
 
+### Using password managers
+
+A password manager is what it sounds like: it creates and remembers hard-to-crack passwords so you don't have to! For many people, choosing bad passwords is their easiest-to-exploit security vulnerability. Most password managers can sync passwords among your devices.
+
+*   [Bitwarden](https://bitwarden.com/) (freemium, free version is capable, pro version quite inexpensive)
+*   [KeePassXC](https://keepassxc.org/) (free/open source)
+*   [1Password](https://1password.com/) (pay)
+
 ### Turning off geolocation
 
 The more you allow your devices and social media to geolocate you, the more extensive, accurate, and hackable/leakable a picture of your habits exists. Stores, colleges/universities, and online trackers are collecting and keeping geolocation information to build such pictures. Also, if you believe yourself to be in danger from a stalker or domestic abuser, or even if you're just dealing with an ordinary nosy person, turning off geolocation is smart.
@@ -42,14 +50,6 @@ The more you allow your devices and social media to geolocate you, the more exte
 * (Social media) [How to protect your location from criminals on Snapchat, Facebook, Twitter and Instagram](http://mashable.com/2016/10/03/how-to-hide-location-social-media/)
 * (Facebook) [How to disable Facebook Places location tracking](https://www.lifewire.com/how-to-disable-facebook-places-location-tracking-2487718)
 * [Snapchat](https://www.wired.com/story/how-to-turn-off-snapchat-snap-maps/)
-
-### Using password managers
-
-A password manager is what it sounds like: it creates and remembers hard-to-crack passwords so you don't have to! For many people, choosing bad passwords is their easiest-to-exploit security vulnerability. Most password managers can sync passwords among your devices.
-
-*   [Bitwarden](https://bitwarden.com/) (freemium, free version is capable, pro version quite inexpensive)
-*   [KeePassXC](https://keepassxc.org/) (free/open source)
-*   [1Password](https://1password.com/) (pay)
 
 ## LAPTOP OR DESKTOP COMPUTER
 
