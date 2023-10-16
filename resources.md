@@ -10,6 +10,8 @@ That's common! There's a great tool to help you sort through that: the [Security
 
 These are my top recommendations:
 
+* Go through your device(s) and remove any software/apps you don't use. That prevents them from leaking data, being breached, etc.
+* If your default browser is Google Chrome, get rid of it and install Firefox instead.
 * Install a password manager on all your devices, and start adding your passwords to it.
 * Laptops and desktops: Install [Privacy Badger](https://www.eff.org/privacybadger) in your favorite web browser.
 *  All web browsers, including mobile: [Change your default search engine away from Google](https://gizmodo.com/the-best-google-search-alternatives-if-privacy-is-your-1848613488). Also, [minimize Google's tracking](https://myaccount.google.com/security).
@@ -37,6 +39,7 @@ A password manager is what it sounds like: it creates and remembers hard-to-crac
 
 *   [Bitwarden](https://bitwarden.com/) (freemium, free version is capable, pro version quite inexpensive)
 *   [KeePassXC](https://keepassxc.org/) (free/open source)
+*   [1Password](https://1password.com/) (subscription)
 
 ### Turning off geolocation
 
