@@ -1,6 +1,6 @@
 ## What is this?
 
-This is a list of things you can do to improve your computer's security and your own privacy. Please feel free to ask questions about any of them!
+This is a list of things you can do to improve your devices' security and your own privacy. Please feel free to ask questions about any of them!
 
 ### I don't know where to start!
 
@@ -11,7 +11,7 @@ That's common! There's a great tool to help you sort through that: the [Security
 These are my top recommendations:
 
 * Go through your device(s) and remove any software/apps you don't use. That prevents them from leaking data, being breached, etc.
-* If your default browser is Google Chrome, get rid of it and install [Firefox](https://www.mozilla.org/en-US/firefox/) instead.
+* If your default browser is Google Chrome, get rid of it. Install [Firefox](https://www.mozilla.org/en-US/firefox/) instead.
 * Install a password manager on all your devices, and start adding your passwords to it. [Bitwarden](https://bitwarden.com/) is an excellent choice.
 * Laptops and desktops: Install [Privacy Badger](https://www.eff.org/privacybadger) in your favorite web browser.
 * All web browsers, including mobile: [Change your default search engine away from Google](https://gizmodo.com/the-best-google-search-alternatives-if-privacy-is-your-1848613488). Also, [minimize Google's tracking](https://myaccount.google.com/security).
@@ -87,29 +87,29 @@ Tor disguises your Internet traffic and disassociates you from it by concealing 
 ### Browser (computer): Security-related settings
 
 *   [Firefox](https://restoreprivacy.com/firefox-privacy/)
-*   I strongly discourage use of Chrome; Google is pulling a lot of privacy-damaging stunts with it. If you must, however: [Chrome](https://www.howtogeek.com/100361/how-to-optimize-google-chrome-for-maximum-privacy/)
+*   I strongly discourage use of Chrome; Google, which has been documented lying about its privacy promises, is pulling a lot of privacy-damaging stunts with it. If you must, however: [Chrome](https://www.howtogeek.com/100361/how-to-optimize-google-chrome-for-maximum-privacy/)
 *   [Microsoft Edge](https://www.cnet.com/how-to/get-to-know-the-security-features-in-edge/)
 
 ### Browser (computer and mobile): Changing default search engine away from Google
 
-Google tracks you and your search history. DuckDuckGo does not. Use DuckDuckGo as your default search engine.
+Google tracks you and your search history. DuckDuckGo does not. Use DuckDuckGo as your default search engine. [This piece](https://restoreprivacy.com/private-search-engine/) lists additional options. 
 
 *   [Instructions for most browsers](https://duckduckgo.com/install)
 *   Alternately, go to [DuckDuckGo's home page](https://duckduckgo.com/) and see if DDG prompts you to change your default search engine.
 
 ### Browser (computer): Security/privacy plugins
 
-Web trackers and advertising networks are a major source of privacy leakage; ad networks increasingly contain malware. Every browser should install Privacy Badger and HTTPS Everywhere at minimum.
+Web trackers and advertising networks are a major source of privacy leakage; ad networks increasingly contain malware. Every browser should install Privacy Badger at minimum.
 
 *   [Privacy Badger!](https://www.eff.org/privacybadger)
 *   [uBlock Origin](https://github.com/gorhill/uBlock/#installation)
-*   [More suggestions (cross-browser)](http://skytechgeek.com/2016/12/5-must-have-privacy-add-ons-for-your-browser/)
 *   [Chrome Store plugins](https://chrome.google.com/webstore/search/privacy)
+*   [Firefox add-ons](https://addons.mozilla.org/en-US/firefox/extensions/category/privacy-security/)
 
 ### Browser (mobile): Security/privacy plugins
 
-*   [Safari on iOS](http://www.idownloadblog.com/2016/01/14/safari-privacy-iphone-ipad/)
-*   [Firefox Focus for iOS](https://itunes.apple.com/us/app/focus-by-firefox-content-blocking/id1055677337?mt=8) (browser and/or Safari ad/tracking blocker)
+*   [Safari on iOS](https://www.tomsguide.com/how-to/how-to-turn-on-locked-private-browsing-on-your-iphone)
+*   [Firefox Focus for iOS](https://www.mozilla.org/en-US/firefox/browsers/mobile/focus/) (browser and/or Safari ad/tracking blocker)
 *   [Firefox (any platform)](https://addons.mozilla.org/en-US/firefox/extensions/privacy-security/)
 *   [Chrome (usually Android)](https://chrome.google.com/webstore/search/privacy)
 
@@ -119,21 +119,23 @@ It's  wise to go through your phone/tablet two or three times a year to **delete
 
 ### Security settings and tools
 
-*   iOS: [iPhone, iPod Touch, iPad](http://www.zdnet.com/pictures/ios-10-iphone-ipad-privacy-security-settings/)
+*   iOS: [iPhone, iPod Touch, iPad](https://www.macrumors.com/guide/ios-17-privacy-security/)
 *   [Basic security setup for Android](https://securityinabox.org/en/guide/basic-setup/android)
 *   [Android](https://www.trendmicro.com/vinfo/us/security/news/mobile-safety/7-android-security-hacks-you-need-to-do-right-now)
 *   [Using mobile phones as securely as possible](hhttps://securityinabox.org/en/guide/smartphones/)
 
 ### iOS app privacy settings
 
-*   [Apple's Privacy Nutrition Labels](https://support.apple.com/en-us/HT211970)
-*   [iOS 15 privacy settings](https://www.wired.com/story/ios-15-privacy-settings-you-should-change-right-now/)
+*   [Apple's Privacy Nutrition Labels](https://support.apple.com/en-us/HT211970) Use these to decide which apps are collecting too much data for your peace.
+
+In general, it is a bad idea to entrust sensitive data -- including health data -- to a mobile app. Vanishingly few can be trusted not to sell or share that data. If you have any of these apps, remove them, deleting data first if at all possible.
 
 ## SOCIAL MEDIA AND SEARCH ENGINES
 
 ### Privacy configuration and settings
 
+In general, always turn off social media "personalization" features, which enable surveillance on and of your device.
+
 *   [Facebook: The always up-to-date guide to managing your Facebook privacy](https://lifehacker.com/5813990/the-always-up-to-date-guide-to-managing-your-facebook-privacy)
-*   [Guide for Facebook, Twitter, Instagram, Snapchat](https://www.uc.edu/infosec/info/SocialMediaPrivacySettings.html)
 *   [Google security settings](https://myaccount.google.com/security) (go through all of these and choose the most private option! turn off personalization!)
 *   [Google privacy settings](https://myaccount.google.com/privacy)
