@@ -21,6 +21,7 @@ These are my top recommendations:
 
 These are terrific mostly-comprehensive walk-throughs that will protect you from the commonest and most damaging privacy and security vulnerabilities.
 
+*   Ars Technica has an excellent two-part series: [Part 1](https://arstechnica.com/features/2021/10/securing-your-digital-life-part-1/) (threat modeling, security basics) and [Part 2](https://arstechnica.com/information-technology/2021/10/securing-your-digital-life-part-2/) (what to do)
 *   EFF: [Security Self-Defense](https://ssd.eff.org/en)
 *   [Restore Privacy](https://restoreprivacy.com/) has a lot of [useful tool suggestions](https://restoreprivacy.com/privacy-tools/) and reviews, as well as pieces targeted to specific situations you might encounter.
 
@@ -139,3 +140,7 @@ In general, always turn off social media "personalization" features, which enabl
 *   [Facebook: The always up-to-date guide to managing your Facebook privacy](https://lifehacker.com/5813990/the-always-up-to-date-guide-to-managing-your-facebook-privacy)
 *   [Google security settings](https://myaccount.google.com/security) (go through all of these and choose the most private option! turn off personalization!)
 *   [Google privacy settings](https://myaccount.google.com/privacy)
+
+## MISCELLANEOUS
+
+*   [Freeze your credit reports](https://www.usa.gov/credit-freeze) at the Big Three credit agencies: Experian, TransUnion, and Equifax. Freezing your credit is free! DO NOT pay for these companies' credit-monitoring tools -- they're not worth the money! Just freeze your credit; this prevents a whole lot of credit-stealing and other financially-motivated identity theft. If you are responsible for minor children, freeze **their** credit too!
