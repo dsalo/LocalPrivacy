@@ -11,7 +11,8 @@ That's common! There's a great tool to help you sort through that: the [Security
 These are my top recommendations:
 
 * Go through your device(s) and remove any software/apps you don't use. That prevents them from leaking data, being breached, etc.
-* If your default browser is Google Chrome, get rid of it. Install [Firefox](https://www.mozilla.org/en-US/firefox/) instead.
+* For at least your most important online accounts, set up [multi-factor authentication](https://www.consumerreports.org/electronics/digital-security/best-way-to-use-two-factor-authentication-a1070812070/). If at all possible, use a physical security key or an app (such as [Authy](https://authy.com/) or [Google Authenticator](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2)) rather than text/SMS or email as your second factor. Still, text or email is better than nothing!
+** Eventually passkeys will take over from passwords-plus-multi-factor. Until then, though? Use multi-factor!
 * Install a password manager on all your devices, and start adding your passwords to it. [Bitwarden](https://bitwarden.com/) is an excellent choice.
 * Laptops and desktops: Install [Privacy Badger](https://www.eff.org/privacybadger) in your favorite web browser.
 * All web browsers, including mobile: [Change your default search engine away from Google](https://gizmodo.com/the-best-google-search-alternatives-if-privacy-is-your-1848613488). Also, [minimize Google's tracking](https://myaccount.google.com/security).
@@ -87,7 +88,7 @@ Tor disguises your Internet traffic and disassociates you from it by concealing 
 ### Browser (computer): Security-related settings
 
 *   [Firefox](https://restoreprivacy.com/firefox-privacy/)
-*   I strongly discourage use of Chrome; Google, which has been documented lying about its privacy promises, is pulling a lot of privacy-damaging stunts with it. If you must, however: [Chrome](https://www.howtogeek.com/100361/how-to-optimize-google-chrome-for-maximum-privacy/)
+*   I strongly discourage use of Chrome; Google, which has been documented lying about its privacy promises, is pulling a lot of privacy-damaging stunts with it. If your default browser is Google Chrome, I suggest getting rid of it and installing [Firefox](https://www.mozilla.org/en-US/firefox/) instead. If you must, however: [Chrome](https://www.howtogeek.com/100361/how-to-optimize-google-chrome-for-maximum-privacy/)
 *   [Microsoft Edge](https://www.cnet.com/how-to/get-to-know-the-security-features-in-edge/)
 
 ### Browser (computer and mobile): Changing default search engine away from Google
