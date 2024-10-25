@@ -22,6 +22,7 @@ These are my top recommendations:
 These are terrific mostly-comprehensive walk-throughs that will protect you from the commonest and most damaging privacy and security vulnerabilities.
 
 *   Ars Technica has an excellent two-part series: [Part 1](https://arstechnica.com/features/2021/10/securing-your-digital-life-part-1/) (threat modeling, security basics) and [Part 2](https://arstechnica.com/information-technology/2021/10/securing-your-digital-life-part-2/) (what to do)
+*   Yael Grauer's [Zebra Crossing](https://github.com/narwhalacademy/zebra-crossing) is also excellent.
 *   EFF: [Security Self-Defense](https://ssd.eff.org/en)
 *   [Restore Privacy](https://restoreprivacy.com/) has a lot of [useful tool suggestions](https://restoreprivacy.com/privacy-tools/) and reviews, as well as pieces targeted to specific situations you might encounter.
 
